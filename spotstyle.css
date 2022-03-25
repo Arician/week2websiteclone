@@ -88,6 +88,7 @@ header{
     padding: 20px;
     border-radius: 500px;
     transition: all .2s;
+    transition: active .1s;
     border: transparent;
     border-width: 4px;
     border-style: solid;
