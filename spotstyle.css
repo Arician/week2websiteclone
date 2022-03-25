@@ -81,10 +81,12 @@ header{
 .heroText{
     color: #1ed760;
     padding-bottom: 40px;
+    font-weight: 900;
 }
 .heroButton{
     background-color: #1ed760;
     color: rgb(41, 65, 171);
+    font-weight: 900;
     padding: 20px;
     border-radius: 500px;
     transition: all .2s;
